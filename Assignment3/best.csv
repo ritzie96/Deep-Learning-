@@ -1,0 +1,2 @@
+,batch_norm,epochs,eta_decay,eta_initial,final_acc_test,final_acc_train,final_acc_val,final_cost_test,final_cost_train,final_cost_val,hidden_layers,lamda,momentum,plot
+0,True,20,0.99,0.012721,0.4264,0.498625,0.4212,1.679627047808958,1.442125886237636,1.6902313741263137,"[50, 30]",0.000192,0.8,plotresults/best_0.png

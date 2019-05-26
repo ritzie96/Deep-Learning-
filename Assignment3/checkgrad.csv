@@ -1,0 +1,7 @@
+,batch_norm,epochs,eta_decay,eta_initial,final_acc_test,final_acc_train,final_acc_val,final_cost_test,final_cost_train,final_cost_val,hidden_layers,lamda,momentum,plot
+0,False,400,0.99,0.01,0,0.99,0.99,0,0.4101490388234701,0.4101490388234701,[50],0,0.8,plotresults/checkgrad_0.png
+0,True,400,0.99,0.01,0,1.0,1.0,0,0.10082404207079028,0.10082404207079028,[50],0,0.8,plotresults/checkgrad_1.png
+0,False,400,0.99,0.01,0,0.96,0.96,0,0.43566287168006235,0.43566287168006235,"[50, 30]",0,0.8,plotresults/checkgrad_2.png
+0,True,400,0.99,0.01,0,1.0,1.0,0,0.1911902505661389,0.1911902505661389,"[50, 30]",0,0.8,plotresults/checkgrad_3.png
+0,False,400,0.99,0.01,0,0.72,0.72,0,1.0313078421182886,1.0313078421182886,"[50, 30, 10]",0,0.8,plotresults/checkgrad_4.png
+0,True,400,0.99,0.01,0,0.9,0.9,0,0.8900198117372983,0.8900198117372983,"[50, 30, 10]",0,0.8,plotresults/checkgrad_5.png

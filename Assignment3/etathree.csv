@@ -1,0 +1,7 @@
+,batch_norm,epochs,eta_decay,eta_initial,final_acc_test,final_acc_train,final_acc_val,final_cost_test,final_cost_train,final_cost_val,hidden_layers,lamda,momentum,plot
+0,False,10,0.99,0.40573,0,0.103,0.101,0,9.518999151464511,9.52018566508523,[50],0.0001,0.8,plotresults/etathree_0.png
+0,False,10,0.99,0.029202,0,0.4014,0.358,0,1.7403533158974223,1.874432239910415,[50],0.0001,0.8,plotresults/etathree_1.png
+0,False,10,0.99,0.003215,0,0.3376,0.32,0,1.9195691393416714,1.9851617148184335,[50],0.0001,0.8,plotresults/etathree_2.png
+0,True,10,0.99,0.40573,0,0.3872,0.304,0,1.8318818885691615,2.265558108867328,[50],0.0001,0.8,plotresults/etathree_3.png
+0,True,10,0.99,0.029202,0,0.5063,0.395,0,1.4614224322498304,1.760732433692647,[50],0.0001,0.8,plotresults/etathree_4.png
+0,True,10,0.99,0.003215,0,0.3718,0.338,0,1.7694183319841919,1.9022436392177138,[50],0.0001,0.8,plotresults/etathree_5.png
